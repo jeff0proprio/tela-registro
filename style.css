@@ -1,0 +1,113 @@
+
+
+body{
+
+
+    background-image: url(pngs/wallpaper.jpg);
+    background-repeat: no-repeat;    
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;
+
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.buttons{
+
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+    
+
+    margin-bottom: 5%;
+    margin-top: 10%;
+
+}
+
+input{
+
+    border: solid black 2px;
+    
+    color: white;
+    background-color: #00000080;
+
+}
+
+button{
+
+    background-color: black;
+    color: white;
+
+    border: solid black 1.5px;
+
+    width: 125px;
+
+}
+
+.dados{
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 10px;
+
+}
+
+label, h1, h3, h4{
+
+    color: white;
+
+
+}
+
+i{
+
+    color: rgb(109, 109, 109);
+
+}
+
+
+.Termos{
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+
+
+}
+
+
+
+
+
+
+.Registro{
+
+    background-color: #00000080;
+
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    margin: 10% 40% 10% 40%;
+    
+    border:  blue 2px;
+    border-radius: 5%;
+
+}
+
+.Termos{
+
+    margin-top: 25px;
+
+}
+
+.Sexo{
+
+    margin-left: 35%;
+
+}
