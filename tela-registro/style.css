@@ -40,10 +40,13 @@ button{
 
     background-color: black;
     color: white;
+    border-radius: 15px;
+    font-size: 25px;
 
     border: solid black 1.5px;
 
-    width: 125px;
+    height: 85px;
+    width: 200px;
 
 }
 
