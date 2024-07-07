@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <title>Tela Registro</title>
+</head>
+<body>
+    
+    <div class="Conteiner">
+    
+        <div class="ConteinerRegistro">
+            
+            <h1 class=".">Criar conta<span class="dot">.</span></h1>
+            <form class="InputDados">
+                <label class="LabelInput">
+                    <span class="material-icons">person</span>
+                    <input type="text" placeholder="Nome" id="Nome">
+                </label>
+                <label class="LabelInput">
+                    <span class="material-icons">email</span>
+                    <input type="email" placeholder="Email" id="Email">
+                </label>
+                <label class="LabelInput">
+                    <span class="material-icons">lock</span>
+                    <input type="password" placeholder="Senha" id="Senha">
+                </label>
+            </form>
+            
+            <p class="SexoTittle">Sexo</p>
+            <form class="Sexo">
+                <label>
+                    <input type="radio" name="Genero" value="Homen">
+                    Homen
+                </label>
+                <label>
+                    <input type="radio" name="Genero" value="Mulher">
+                    Mulher
+                </label>
+                <label>
+                    <input type="radio" name="Genero" value="Outro">
+                    Outro
+                </label>
+            </form>
+            
+            <div class="Termos">
+                <label>
+                    <input type="checkbox" name="" id="">
+                    Eu aceito os termos.
+                </label>
+            </div>
+            
+            <button type="button" onclick="Registrar()">Registrar</button>
+            
+        </div>
+        
+        
+    </div>
+    
+    <script src="file.js"></script>
+</body>
+</html>
