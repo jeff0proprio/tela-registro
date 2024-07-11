@@ -133,8 +133,33 @@ body{
     color: white;
     
 }
-button{
 
+a{
+
+    color: white;
+
+}
+
+.BotaoRegistro{
+
+    border: solid 2px white;
+    
+    height: 50px;
+    width: 314px;
+    margin-bottom: 8%;
+
+    font-size: 35px;
+    color: white;
+    background-image: linear-gradient(to bottom right, #6f8fb9, #0b385c, #0b385c, #6f8fb9);
+
+    border-radius: 15px;
+    border: 0px transparent;
+
+}
+.BotaoLogin{
+
+    border: solid 2px white;
+    
     height: 50px;
     width: 314px;
     margin-bottom: 8%;
