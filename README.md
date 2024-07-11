@@ -22,4 +22,6 @@ A tela de criação de conta é bem simples. Após o usuário criar sua conta, e
 ## Tela login
 A última tela será a de login. Nesta tela, o usuário vai efetuar o login e será enviado para o conteúdo principal do site.
 
-![Login](https://github.com/jeff0proprio/tela-registro/assets/162985697/cafb239e-a903-4c85-b8b2-ea620f969b85)
+![Login](https://github.com/jeff0proprio/tela-registro/assets/162985697/ecb4dc2c-6227-40a9-9f36-21d9c7806aac)
+
+
