@@ -1,5 +1,3 @@
-# tela-registro
-Nesse projeto, tive o desafio de criar uma tela de registro usando apenas HTML + CSS.
 # Tela de Cadastro/Login clean
 ## Ideia do projeto 
 Nesse prejeto tive o desafio de criar uma tela de cadastro usando html + css + Js.  Então decidi criar 3 telas!     <br>
